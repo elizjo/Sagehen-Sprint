@@ -19,3 +19,5 @@ Since my first language is Python, I tried to use the Pygame extension to create
 - goal for next version- add color to Cecil, jump feature, more versions/variation of fire obstacles & background
   - also, improve the playback of the game animation on github
   - gifs are hard! this gif is much slower than the current animation on the style.css file
+
+# Version 2 (Sept 18-25th 2021)
