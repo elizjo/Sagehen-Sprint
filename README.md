@@ -17,3 +17,5 @@ Since my first language is Python, I tried to use the Pygame extension to create
 - used animate feature on CSS to coordinate Cecil's walk & scrolling background
 - added multiple classes for Cecil, the fire obstacle, and background from the CSS file to the HTML 
 - goal for next version- add color to Cecil, jump feature, more versions/variation of fire obstacles & background
+  - also, improve the playback of the game animation on github
+  - gifs are hard! this gif is much slower than the current animation on the style.css file
