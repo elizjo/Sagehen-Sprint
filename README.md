@@ -12,3 +12,8 @@ Since my first language is Python, I tried to use the Pygame extension to create
 
 # Version 1
 ![](version1-sept16-2021.gif)
+
+- used CSS to style Cecil the Sagehen
+- used animate feature on CSS to coordinate Cecil's walk & scrolling background
+- added multiple classes for Cecil, the fire obstacle, and background from the CSS file to the HTML 
+- goal for next version- add color to Cecil, jump feature, more versions/variation of fire obstacles & background
