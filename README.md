@@ -6,3 +6,6 @@ I am currently teaching myself CSS/ HTML5/ Javascript. After finishing my first 
 
 # Original Sticker Design
 <img src="Spring_Sem_color.png" width="500">
+
+# Evolution of Project
+Since my first language is Python, I tried to use the Pygame extension to create the game. I hoped to learn more object-oriented programming with Python through using Pygame. However, I realized that I would like this game to be more accessable to Pomona Students and Sagehen Fans and switched the implementation of the project to HTML/ CSS/ and Javascript. I had done some (*very*) simple websites with HTML/ CSS/ and Javascript, but this project has allowed me to explore the extensive styling elements of CSS and more about Javascript's syntax. 
