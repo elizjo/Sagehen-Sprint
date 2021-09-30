@@ -1,0 +1,80 @@
+body {
+    background-image: url("takeAbreak.png");
+}
+#start {
+    position: absolute;
+    right: 500px;  
+    bottom: 250px;
+    height: 619px;
+    width: 885px; 
+    background-image: url("front-page-game.png");
+    animation: boom 1s linear;
+}
+
+#alert {
+    width: 900px;
+    height: 700px;
+    position: absolute;
+    display: inline-block;
+    top: 20%;
+    right: 35%;
+    background-image: url("Leaderboard_.png");
+} 
+
+.character {
+    width: 240px;
+    height: 400px;
+    position: absolute;
+    bottom: 90px;
+    left: 50px;
+    background-image: url("pictures/color-sageh-spritesheet.png");
+    animation: run 650ms steps(8) 10ms infinite;
+    /* animation-delay: -0.1s; */
+}
+
+.animate {
+    animation: jump 500ms;
+    animation: run 650ms steps(8) 10ms;
+    
+}
+@keyframes run {
+    100% {background-position: -2000px;}
+  }
+
+@keyframes jump {
+    0% {top: 650px;}
+    35% {top: 350px;}
+    70% {top: 350px;}
+    100% {top: 650px;}
+}
+@keyframes block {
+    0% {left: 1620px;}
+    100% {left: -300px;}
+}
+ 
+.block {
+    width: 300px;
+    height: 300px;
+    background-image: url("/pictures/fire1.png");
+    position: absolute;
+    bottom: 90px;
+}
+
+
+@keyframes background-slide {
+    100% {background-position: -5760px;}
+}
+
+/* use id since this is background */
+#campus {
+    position: absolute;  
+    bottom: 300px;
+    height: 1080px;
+    width: 100vw; 
+    border: 1px solid black;
+    background-image: url("/pictures/scrolling-background.png");
+    overflow: hidden;
+    background-repeat: repeat-x;
+    /* overflow: hidden; */
+    animation: background-slide 5000ms linear infinite;
+}
