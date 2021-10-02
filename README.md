@@ -25,5 +25,5 @@ Since my first language is Python, I tried to use the Pygame extension to create
 - used Javascript to:
     - allow Cecil to jump with user pressing spacebar
     - deploy obstacles (fires) at random times
-    - enable the simple game logic (when Cecil fails to jump over the fire, game over)
+    - enable the simple game logic (when Cecil fails to jump over the fire = game over)
 - created better gif through looking at the frame pause/rate and adjusting from 80ms/ frame to 20-30ms/frame
