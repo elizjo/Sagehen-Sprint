@@ -21,4 +21,6 @@ Since my first language is Python, I tried to use the Pygame extension to create
   - gifs are hard! this gif is much slower than the current animation on the style.css file
 
 # Version 2 (Sept 18-25th 2021)
-![Alt Text](https://gfycat.com/polisheddapperacornwoodpecker.gif)
+![](version-2-sept25.gifcask)
+
+
