@@ -16,8 +16,10 @@ Since my first language is Python, I tried to use the Pygame extension to create
 - used CSS to style Cecil the Sagehen
 - used animate feature on CSS to coordinate Cecil's walk & scrolling background
 - added multiple classes for Cecil, the fire obstacle, and background from the CSS file to the HTML 
-- goal for next version- add color to Cecil, jump feature, more versions/variation of fire obstacles & background
-  - also, improve the playback of the game animation on github
+
+## goal for next version
+- add color to Cecil, jump feature, more versions/variation of fire obstacles & background
+  - improve the playback of the game animation on github
   - gifs are hard! this gif is much slower than the current animation on the style.css file
 
 # Version 2 (Sept 18-25th 2021)
@@ -27,3 +29,13 @@ Since my first language is Python, I tried to use the Pygame extension to create
     - deploy obstacles (fires) at random times
     - enable the simple game logic (when Cecil fails to jump over the fire = game over)
 - created better gif through looking at the frame pause/rate and adjusting from 80ms/ frame to 20-30ms/frame
+
+## goal for next version
+- create a main game screen & game over screen
+- fix jump pattern & deploy obstacles at higher rate
+- deploy as a website
+
+### other longterm goals
+- add a leaderboard
+- add a game over animation
+- color background? (I like the simplicity of the background as it is)
