@@ -10,7 +10,13 @@ I am currently teaching myself CSS/ HTML5/ Javascript. After finishing my first 
 # Evolution of Project
 Since my first language is Python, I tried to use the Pygame extension to create the game. I hoped to learn more object-oriented programming with Python through using Pygame. However, I realized that I would like this game to be more accessable to Pomona Students and Sagehen Fans and switched the implementation of the project to HTML/ CSS/ and Javascript. I had done some (*very*) simple websites with HTML/ CSS/ and Javascript, but this project has allowed me to explore the extensive styling elements of CSS and more about Javascript's syntax. 
 # Version 3 (Sept 27- Oct 4th 2021)
-![](version3 v
+![](version3-10:4.gif)
+- created start page & designed original background on procreate
+- unsuccessfuly tried to:
+    - implement a game over screen (trying to learn more about appendChild/removeChild on JavaScript)
+    - attempted to deploy website on Cloudflare pages (formatting is incorrect)
+    - goal for next version: fix the techincal problems outlined above
+    
 # Version 2 (Sept 19-26th 2021)
 ![](version2-25.gif)
 - used Javascript to:
